@@ -1,0 +1,14 @@
+{
+  "name": "sesion15",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "Manuel Jimenez",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.3.1"
+  }
+}
