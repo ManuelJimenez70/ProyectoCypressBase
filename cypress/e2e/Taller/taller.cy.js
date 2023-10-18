@@ -76,7 +76,7 @@ describe('Agregar nuevas tareas a la lista ', () => {
 
 describe('Completar Tareas', () => {
 
-  it('Marcar como completa una tarea correctamente', () => {
+  it('Marcar como completa una tarea correctamente.', () => {
     cy.visit('https://example.cypress.io/todo');
     cy.get('.todo-list li').then((list) => {
       if (list.length > 0) {
