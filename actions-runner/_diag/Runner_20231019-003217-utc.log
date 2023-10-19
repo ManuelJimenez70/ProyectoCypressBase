@@ -1,0 +1,238 @@
+[2023-10-19 00:32:17Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-10-19 00:32:17Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:32:17Z INFO HostContext] Well known directory 'Root': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:32:17Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.credentials'
+[2023-10-19 00:32:17Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:32:17Z INFO HostContext] Well known directory 'Root': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:32:17Z INFO HostContext] Well known config file 'Runner': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.runner'
+[2023-10-19 00:32:17Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2023-10-19 00:32:17Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.19045.
+[2023-10-19 00:32:17Z INFO Listener] Version: 2.310.2
+[2023-10-19 00:32:17Z INFO Listener] Commit: da218fdbe64591cf83da4d8a0c1bccb7fcc6d3b4
+[2023-10-19 00:32:17Z INFO Listener] Culture: es-CO
+[2023-10-19 00:32:17Z INFO Listener] UI Culture: es-MX
+[2023-10-19 00:32:17Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:32:17Z INFO HostContext] Well known directory 'Root': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:32:17Z INFO Listener] Validating directory permissions for: 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:32:17Z INFO CommandLineParser] Parse
+[2023-10-19 00:32:17Z INFO CommandLineParser] Parsing 5 args
+[2023-10-19 00:32:17Z INFO CommandLineParser] parsing argument
+[2023-10-19 00:32:17Z INFO CommandLineParser] HasArgs: False
+[2023-10-19 00:32:17Z INFO CommandLineParser] Adding Command: configure
+[2023-10-19 00:32:17Z INFO CommandLineParser] parsing argument
+[2023-10-19 00:32:17Z INFO CommandLineParser] HasArgs: True
+[2023-10-19 00:32:17Z INFO CommandLineParser] arg: url
+[2023-10-19 00:32:17Z INFO CommandLineParser] parsing argument
+[2023-10-19 00:32:17Z INFO CommandLineParser] HasArgs: True
+[2023-10-19 00:32:17Z INFO CommandLineParser] Adding option 'url': 'https://github.com/ManuelJimenez70/ProyectoCypressBase'
+[2023-10-19 00:32:17Z INFO CommandLineParser] parsing argument
+[2023-10-19 00:32:17Z INFO CommandLineParser] HasArgs: True
+[2023-10-19 00:32:17Z INFO CommandLineParser] arg: token
+[2023-10-19 00:32:17Z INFO CommandLineParser] parsing argument
+[2023-10-19 00:32:17Z INFO CommandLineParser] HasArgs: True
+[2023-10-19 00:32:17Z INFO CommandLineParser] Adding option 'token': '***'
+[2023-10-19 00:32:17Z INFO Listener] Arguments parsed
+[2023-10-19 00:32:17Z INFO Runner] ExecuteCommand
+[2023-10-19 00:32:17Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin\Runner.Listener.dll
+[2023-10-19 00:32:17Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:32:17Z INFO ConfigurationStore] binPath: C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin
+[2023-10-19 00:32:17Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:32:17Z INFO HostContext] Well known directory 'Root': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:32:17Z INFO ConfigurationStore] RootFolder: C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner
+[2023-10-19 00:32:17Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:32:17Z INFO HostContext] Well known directory 'Root': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:32:17Z INFO HostContext] Well known config file 'Runner': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.runner'
+[2023-10-19 00:32:17Z INFO ConfigurationStore] ConfigFilePath: C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.runner
+[2023-10-19 00:32:17Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:32:17Z INFO HostContext] Well known directory 'Root': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:32:17Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.credentials'
+[2023-10-19 00:32:17Z INFO ConfigurationStore] CredFilePath: C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.credentials
+[2023-10-19 00:32:17Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:32:17Z INFO HostContext] Well known directory 'Root': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:32:17Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.credentials_migrated'
+[2023-10-19 00:32:17Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.credentials_migrated
+[2023-10-19 00:32:17Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:32:17Z INFO HostContext] Well known directory 'Root': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:32:17Z INFO HostContext] Well known config file 'Service': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.service'
+[2023-10-19 00:32:17Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.service
+[2023-10-19 00:32:17Z INFO CommandSettings] Flag 'help': 'False'
+[2023-10-19 00:32:17Z INFO CommandSettings] Flag 'version': 'False'
+[2023-10-19 00:32:17Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-10-19 00:32:17Z INFO CommandSettings] Flag 'check': 'False'
+[2023-10-19 00:32:17Z INFO CommandSettings] Command 'configure': 'True'
+[2023-10-19 00:32:17Z INFO Terminal] WRITE LINE: 
+[2023-10-19 00:32:17Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2023-10-19 00:32:17Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2023-10-19 00:32:17Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2023-10-19 00:32:17Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2023-10-19 00:32:17Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2023-10-19 00:32:17Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2023-10-19 00:32:17Z INFO Terminal] WRITE LINE: |                                                                              |
+[2023-10-19 00:32:17Z INFO Terminal] WRITE: |                       
+[2023-10-19 00:32:17Z INFO Terminal] WRITE: Self-hosted runner registration
+[2023-10-19 00:32:17Z INFO Terminal] WRITE LINE:                         |
+[2023-10-19 00:32:17Z INFO Terminal] WRITE LINE: |                                                                              |
+[2023-10-19 00:32:17Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2023-10-19 00:32:17Z INFO ConfigurationManager] ConfigureAsync
+[2023-10-19 00:32:17Z INFO CommandSettings] Flag 'generateServiceConfig': 'False'
+[2023-10-19 00:32:17Z INFO ConfigurationStore] IsConfigured()
+[2023-10-19 00:32:17Z INFO ConfigurationStore] IsConfigured: False
+[2023-10-19 00:32:17Z INFO ConfigurationManager] Is configured: False
+[2023-10-19 00:32:17Z INFO CommandSettings] Arg 'url': 'https://github.com/ManuelJimenez70/ProyectoCypressBase'
+[2023-10-19 00:32:17Z INFO CommandSettings] Remove url from Arg dictionary.
+[2023-10-19 00:32:17Z INFO CommandSettings] Arg 'token': '***'
+[2023-10-19 00:32:17Z INFO CommandSettings] Remove token from Arg dictionary.
+[2023-10-19 00:32:17Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration' (43D3:1868:65C7F6:CFD125:65307911)
+[2023-10-19 00:32:18Z INFO ConfigurationManager] Using V2 flow: False
+[2023-10-19 00:32:18Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2023-10-19 00:32:18Z INFO RunnerServer] EstablishVssConnection
+[2023-10-19 00:32:18Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-10-19 00:32:18Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-10-19 00:32:18Z INFO RunnerServer] EstablishVssConnection
+[2023-10-19 00:32:18Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-10-19 00:32:18Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-10-19 00:32:18Z INFO RunnerServer] EstablishVssConnection
+[2023-10-19 00:32:18Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-10-19 00:32:18Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-10-19 00:32:18Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-10-19 00:32:18Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-10-19 00:32:18Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-10-19 00:32:18Z INFO Terminal] WRITE LINE: 
+[2023-10-19 00:32:18Z INFO ConfigurationManager] Test Connection complete.
+[2023-10-19 00:32:18Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:32:18Z INFO HostContext] Well known directory 'Root': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:32:18Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.credentials_rsaparams'
+[2023-10-19 00:32:18Z INFO RSAEncryptedFileKeyManager] Creating new RSA key using 2048-bit key length
+[2023-10-19 00:32:18Z INFO RSAEncryptedFileKeyManager] Successfully saved RSA key parameters to file C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.credentials_rsaparams
+[2023-10-19 00:32:19Z INFO CommandSettings] Arg 'runnergroup': ''
+[2023-10-19 00:32:19Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-10-19 00:32:19Z INFO PromptManager] ReadValue
+[2023-10-19 00:32:19Z INFO Terminal] WRITE: Enter the name of the runner group to add this runner to: 
+[2023-10-19 00:32:19Z INFO Terminal] WRITE: [press Enter for Default] 
+[2023-10-19 00:32:19Z INFO Terminal] READ LINE
+[2023-10-19 00:32:20Z INFO Terminal] Read value: ''
+[2023-10-19 00:32:20Z INFO PromptManager] Falling back to the default: 'Default'
+[2023-10-19 00:32:20Z INFO Terminal] WRITE LINE: 
+[2023-10-19 00:32:20Z INFO ConfigurationManager] Found a self-hosted runner group with id 1 and name Default
+[2023-10-19 00:32:20Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2023-10-19 00:32:20Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2023-10-19 00:32:20Z INFO CommandSettings] Arg 'name': ''
+[2023-10-19 00:32:20Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-10-19 00:32:20Z INFO PromptManager] ReadValue
+[2023-10-19 00:32:20Z INFO Terminal] WRITE: Enter the name of runner: 
+[2023-10-19 00:32:20Z INFO Terminal] WRITE: [press Enter for DESKTOP-P3OGUBB] 
+[2023-10-19 00:32:20Z INFO Terminal] READ LINE
+[2023-10-19 00:32:31Z INFO Terminal] Read value: 'cypress-runner'
+[2023-10-19 00:32:31Z INFO Terminal] WRITE LINE: 
+[2023-10-19 00:32:31Z INFO CommandSettings] Arg 'labels': ''
+[2023-10-19 00:32:31Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-10-19 00:32:31Z INFO PromptManager] ReadValue
+[2023-10-19 00:32:31Z INFO Terminal] WRITE: This runner will have the following labels: 'self-hosted', 'Windows', 'X64' 
+Enter any additional labels (ex. label-1,label-2): 
+[2023-10-19 00:32:31Z INFO Terminal] WRITE: [press Enter to skip] 
+[2023-10-19 00:32:31Z INFO Terminal] READ LINE
+[2023-10-19 00:33:00Z INFO Terminal] Read value: 'test'
+[2023-10-19 00:33:00Z INFO Terminal] WRITE LINE: 
+[2023-10-19 00:33:01Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2023-10-19 00:33:01Z INFO CommandSettings] Flag 'no-default-labels': 'False'
+[2023-10-19 00:33:01Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2023-10-19 00:33:01Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2023-10-19 00:33:01Z INFO ConfigurationStore] Saving OAuth credential @ C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.credentials
+[2023-10-19 00:33:01Z INFO ConfigurationStore] Credentials Saved.
+[2023-10-19 00:33:01Z INFO ConfigurationStore] HasCredentials()
+[2023-10-19 00:33:01Z INFO ConfigurationStore] stored True
+[2023-10-19 00:33:01Z INFO CredentialManager] GetCredentialProvider
+[2023-10-19 00:33:01Z INFO CredentialManager] Creating type OAuth
+[2023-10-19 00:33:01Z INFO CredentialManager] Creating credential type: OAuth
+[2023-10-19 00:33:01Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.credentials_rsaparams
+[2023-10-19 00:33:01Z INFO RunnerServer] EstablishVssConnection
+[2023-10-19 00:33:01Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-10-19 00:33:01Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-10-19 00:33:01Z INFO RunnerServer] EstablishVssConnection
+[2023-10-19 00:33:01Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-10-19 00:33:01Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-10-19 00:33:01Z INFO RunnerServer] EstablishVssConnection
+[2023-10-19 00:33:01Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-10-19 00:33:01Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-10-19 00:33:01Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-10-19 00:33:01Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-10-19 00:33:01Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-10-19 00:33:01Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.credentials_rsaparams
+[2023-10-19 00:33:01Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.credentials_rsaparams
+[2023-10-19 00:33:02Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-10-19 00:33:02Z INFO CommandSettings] Arg 'work': ''
+[2023-10-19 00:33:02Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-10-19 00:33:02Z INFO PromptManager] ReadValue
+[2023-10-19 00:33:02Z INFO Terminal] WRITE: Enter name of work folder: 
+[2023-10-19 00:33:02Z INFO Terminal] WRITE: [press Enter for _work] 
+[2023-10-19 00:33:02Z INFO Terminal] READ LINE
+[2023-10-19 00:33:07Z INFO Terminal] Read value: ''
+[2023-10-19 00:33:07Z INFO PromptManager] Falling back to the default: '_work'
+[2023-10-19 00:33:07Z INFO ConfigurationStore] Saving runner settings.
+[2023-10-19 00:33:07Z INFO ConfigurationStore] Settings Saved.
+[2023-10-19 00:33:07Z INFO Terminal] WRITE LINE: 
+[2023-10-19 00:33:07Z INFO Terminal] WRITE LINE: 
+[2023-10-19 00:33:07Z INFO CommandSettings] Flag 'runasservice': 'False'
+[2023-10-19 00:33:07Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-10-19 00:33:07Z INFO PromptManager] ReadValue
+[2023-10-19 00:33:07Z INFO Terminal] WRITE: Would you like to run the runner as service? (Y/N) 
+[2023-10-19 00:33:07Z INFO Terminal] WRITE: [press Enter for N] 
+[2023-10-19 00:33:07Z INFO Terminal] READ LINE
+[2023-10-19 00:33:10Z INFO Terminal] Read value: 'y'
+[2023-10-19 00:33:10Z INFO ConfigurationManager] Configuring to run the agent as service
+[2023-10-19 00:33:10Z INFO CommandSettings] Arg 'windowslogonaccount': ''
+[2023-10-19 00:33:10Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-10-19 00:33:10Z INFO PromptManager] ReadValue
+[2023-10-19 00:33:10Z INFO Terminal] WRITE: User account to use for the service 
+[2023-10-19 00:33:10Z INFO Terminal] WRITE: [press Enter for NT AUTHORITY\NETWORK SERVICE] 
+[2023-10-19 00:33:10Z INFO Terminal] READ LINE
+[2023-10-19 00:33:19Z INFO Terminal] Read value: ''
+[2023-10-19 00:33:19Z INFO PromptManager] Falling back to the default: 'NT AUTHORITY\NETWORK SERVICE'
+[2023-10-19 00:33:19Z INFO WindowsServiceControlManager] LogonAccount after transforming: NT AUTHORITY\NETWORK SERVICE, user: NETWORK SERVICE, domain: NT AUTHORITY
+[2023-10-19 00:33:19Z INFO WindowsServiceControlManager] Service name 'actions.runner.ManuelJimenez70-ProyectoCypressBase.cypress-runner' display name 'GitHub Actions Runner (ManuelJimenez70-ProyectoCypressBase.cypress-runner)' will be used for service configuration.
+[2023-10-19 00:33:19Z INFO WindowsServiceControlManager] Verifying if the account has LogonAsService permission
+[2023-10-19 00:33:19Z INFO WindowsServiceControlManager] Account: NT AUTHORITY\NETWORK SERVICE already has Logon As Service Privilege.
+[2023-10-19 00:33:19Z INFO WindowsServiceControlManager] Create local group and grant folder permission to service logon account.
+[2023-10-19 00:33:19Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:33:19Z INFO HostContext] Well known directory 'Root': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:33:19Z INFO ConfigurationStore] Read setting file: 324 chars
+[2023-10-19 00:33:19Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:33:19Z INFO HostContext] Well known directory 'Root': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:33:19Z INFO HostContext] Well known directory 'Work': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\_work'
+[2023-10-19 00:33:19Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:33:19Z INFO NativeWindowsServiceHelper] Calculated unique group name GITHUB_ActionsRunner_G2a038
+[2023-10-19 00:33:19Z INFO NativeWindowsServiceHelper] Trying to create group GITHUB_ActionsRunner_G2a038
+[2023-10-19 00:33:19Z INFO NativeWindowsServiceHelper] Local Group 'GITHUB_ActionsRunner_G2a038' created
+[2023-10-19 00:33:19Z INFO NativeWindowsServiceHelper] Trying to add userName NT AUTHORITY\NETWORK SERVICE to the group GITHUB_ActionsRunner_G2a038
+[2023-10-19 00:33:19Z INFO NativeWindowsServiceHelper] Account 'NT AUTHORITY\NETWORK SERVICE' is added to local group 'GITHUB_ActionsRunner_G2a038'.
+[2023-10-19 00:33:19Z INFO NativeWindowsServiceHelper] Set full access control to group for the folder C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner
+[2023-10-19 00:33:20Z INFO NativeWindowsServiceHelper] Set full access control to group for the folder C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\_work
+[2023-10-19 00:33:20Z INFO NativeWindowsServiceHelper] Local group 'GITHUB_ActionsRunner_G2a038' already has full control to path 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\_work'.
+[2023-10-19 00:33:20Z INFO Terminal] WRITE LINE: Granting file permissions to 'NT AUTHORITY\NETWORK SERVICE'.
+[2023-10-19 00:33:20Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:33:20Z INFO ProcessInvokerWrapper] Starting process:
+[2023-10-19 00:33:20Z INFO ProcessInvokerWrapper]   File name: '"C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin\RunnerService.exe"'
+[2023-10-19 00:33:20Z INFO ProcessInvokerWrapper]   Arguments: 'init'
+[2023-10-19 00:33:20Z INFO ProcessInvokerWrapper]   Working directory: ''
+[2023-10-19 00:33:20Z INFO ProcessInvokerWrapper]   Require exit code zero: 'True'
+[2023-10-19 00:33:20Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-10-19 00:33:20Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2023-10-19 00:33:20Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-10-19 00:33:20Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-10-19 00:33:20Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-10-19 00:33:20Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2023-10-19 00:34:48Z INFO ProcessInvokerWrapper] Process started with process id 1096, waiting for process exit.
+[2023-10-19 00:34:48Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-10-19 00:34:48Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-10-19 00:34:48Z INFO ProcessInvokerWrapper] Finished process 1096 with exit code 0, and elapsed time 00:01:28.7329233.
+[2023-10-19 00:34:48Z INFO Terminal] WRITE LINE: Service actions.runner.ManuelJimenez70-ProyectoCypressBase.cypress-runner successfully installed
+[2023-10-19 00:34:48Z INFO Terminal] WRITE LINE: Service actions.runner.ManuelJimenez70-ProyectoCypressBase.cypress-runner successfully set recovery option
+[2023-10-19 00:34:48Z INFO Terminal] WRITE LINE: Service actions.runner.ManuelJimenez70-ProyectoCypressBase.cypress-runner successfully set to delayed auto start
+[2023-10-19 00:34:48Z INFO Terminal] WRITE LINE: Service actions.runner.ManuelJimenez70-ProyectoCypressBase.cypress-runner successfully configured
+[2023-10-19 00:34:48Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:34:48Z INFO HostContext] Well known directory 'Root': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:34:48Z INFO HostContext] Well known config file 'Service': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.service'
+[2023-10-19 00:34:48Z INFO WindowsServiceControlManager] Configuration was successful, trying to start the service
+[2023-10-19 00:34:50Z INFO Terminal] WRITE LINE: Waiting for service to start...
+[2023-10-19 00:34:50Z INFO Terminal] WRITE LINE: Service actions.runner.ManuelJimenez70-ProyectoCypressBase.cypress-runner started successfully
+[2023-10-19 00:34:50Z INFO Listener] Runner execution has finished with return code 0

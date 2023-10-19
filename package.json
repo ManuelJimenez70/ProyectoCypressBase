@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "cypress open"
+    "test": "cypress open",
+    "cypress.run" : "cypress run --project ./test --record --key 2c0f36aa-9dcc-49db-8de4-2d0782b9917d"
   },
   "author": "Manuel Jimenez",
   "license": "ISC",

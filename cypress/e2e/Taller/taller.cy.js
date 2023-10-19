@@ -36,7 +36,6 @@ describe('Agregar nuevas tareas a la lista ', () => {
     const newItem = 'Lavar los Platos'
     cy.get('[data-test=new-todo]').type(`${newItem}{enter}`);
     cy.get('.todo-list').should('have.length', (initLength + 1));
-    
   })
 
   it('Se Agrega una Tarea con caracteres especiales', () => {
@@ -51,16 +50,14 @@ describe('Agregar nuevas tareas a la lista ', () => {
   })
 
   it('Se Agrega una Tarea vacia', () => {
-    let initLength = 0;
+    var initLength = 0;
     cy.get('.todo-list li').then((list) => {
       initLength = list.length;
       console.log(list.length);
+      cy.get('[data-test=new-todo]').type(`{enter}`);
+      cy.get('.todo-list li').should('have.length', initLength);
     });
-    const newItem = ''
-    cy.get('[data-test=new-todo]').type(`${newItem}{enter}`);
-    cy.get('.todo-list').should('have.length', (initLength + 1));
   })
-
 
   it('Se Agrega una Tarea con gran numero de caracteres', () => {
     let initLength = 0;
@@ -73,6 +70,7 @@ describe('Agregar nuevas tareas a la lista ', () => {
     cy.get('.todo-list').should('have.length', (initLength + 1));
   })
 })
+
 
 describe('Completar Tareas', () => {
 

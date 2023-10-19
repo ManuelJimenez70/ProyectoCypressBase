@@ -1,0 +1,40 @@
+[2023-10-19 00:34:50Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-10-19 00:34:50Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:34:50Z INFO HostContext] Well known directory 'Root': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:34:50Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.credentials'
+[2023-10-19 00:34:50Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:34:50Z INFO HostContext] Well known directory 'Root': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:34:50Z INFO HostContext] Well known config file 'Runner': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.runner'
+[2023-10-19 00:34:50Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2023-10-19 00:34:50Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.19045.
+[2023-10-19 00:34:50Z INFO Listener] Version: 2.310.2
+[2023-10-19 00:34:50Z INFO Listener] Commit: da218fdbe64591cf83da4d8a0c1bccb7fcc6d3b4
+[2023-10-19 00:34:50Z INFO Listener] Culture: es-MX
+[2023-10-19 00:34:50Z INFO Listener] UI Culture: es-MX
+[2023-10-19 00:34:50Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:34:50Z INFO HostContext] Well known directory 'Root': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:34:50Z INFO Listener] Validating directory permissions for: 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:34:50Z ERR  Terminal] WRITE ERROR: An error occurred: Permission to read the directory contents is required for 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner' and each directory up the hierarchy. Access to the path 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase' is denied.
+[2023-10-19 00:34:50Z ERR  Listener] System.UnauthorizedAccessException: Permission to read the directory contents is required for 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner' and each directory up the hierarchy. Access to the path 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase' is denied.
+ ---> System.UnauthorizedAccessException: Access to the path 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateDirectoryHandle(String path, Boolean ignoreNotFound)
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerator`1..ctor(String directory, Boolean isNormalized, EnumerationOptions options)
+   at System.IO.Enumeration.FileSystemEnumerable`1..ctor(String directory, FindTransform transform, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.Enumeration.FileSystemEnumerableFactory.UserEntries(String directory, String expression, EnumerationOptions options)
+   at System.IO.Directory.InternalEnumeratePaths(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at System.IO.Directory.EnumerateFileSystemEntries(String path)
+   at GitHub.Runner.Sdk.IOUtil.ValidateExecutePermission(String directory)
+   --- End of inner exception stack trace ---
+   at GitHub.Runner.Sdk.IOUtil.ValidateExecutePermission(String directory)
+   at GitHub.Runner.Listener.Program.MainAsync(IHostContext context, String[] args)
+[2023-10-19 00:34:50Z ERR  Listener] #####################################################
+[2023-10-19 00:34:50Z ERR  Listener] System.UnauthorizedAccessException: Access to the path 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateDirectoryHandle(String path, Boolean ignoreNotFound)
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerator`1..ctor(String directory, Boolean isNormalized, EnumerationOptions options)
+   at System.IO.Enumeration.FileSystemEnumerable`1..ctor(String directory, FindTransform transform, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.Enumeration.FileSystemEnumerableFactory.UserEntries(String directory, String expression, EnumerationOptions options)
+   at System.IO.Directory.InternalEnumeratePaths(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at System.IO.Directory.EnumerateFileSystemEntries(String path)
+   at GitHub.Runner.Sdk.IOUtil.ValidateExecutePermission(String directory)

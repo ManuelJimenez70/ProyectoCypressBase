@@ -1,0 +1,101 @@
+[2023-10-19 00:32:05Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-10-19 00:32:05Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:32:05Z INFO HostContext] Well known directory 'Root': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:32:05Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.credentials'
+[2023-10-19 00:32:05Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:32:05Z INFO HostContext] Well known directory 'Root': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:32:05Z INFO HostContext] Well known config file 'Runner': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.runner'
+[2023-10-19 00:32:05Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2023-10-19 00:32:05Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.19045.
+[2023-10-19 00:32:05Z INFO Listener] Version: 2.310.2
+[2023-10-19 00:32:05Z INFO Listener] Commit: da218fdbe64591cf83da4d8a0c1bccb7fcc6d3b4
+[2023-10-19 00:32:05Z INFO Listener] Culture: es-CO
+[2023-10-19 00:32:05Z INFO Listener] UI Culture: es-MX
+[2023-10-19 00:32:05Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:32:05Z INFO HostContext] Well known directory 'Root': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:32:05Z INFO Listener] Validating directory permissions for: 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:32:05Z INFO CommandLineParser] Parse
+[2023-10-19 00:32:05Z INFO CommandLineParser] Parsing 5 args
+[2023-10-19 00:32:05Z INFO CommandLineParser] parsing argument
+[2023-10-19 00:32:05Z INFO CommandLineParser] HasArgs: False
+[2023-10-19 00:32:05Z INFO CommandLineParser] Adding Command: remove
+[2023-10-19 00:32:05Z INFO CommandLineParser] parsing argument
+[2023-10-19 00:32:05Z INFO CommandLineParser] HasArgs: True
+[2023-10-19 00:32:05Z INFO CommandLineParser] arg: url
+[2023-10-19 00:32:05Z INFO CommandLineParser] parsing argument
+[2023-10-19 00:32:05Z INFO CommandLineParser] HasArgs: True
+[2023-10-19 00:32:05Z INFO CommandLineParser] Adding option 'url': 'https://github.com/ManuelJimenez70/ProyectoCypressBase'
+[2023-10-19 00:32:05Z INFO CommandLineParser] parsing argument
+[2023-10-19 00:32:05Z INFO CommandLineParser] HasArgs: True
+[2023-10-19 00:32:05Z INFO CommandLineParser] arg: token
+[2023-10-19 00:32:05Z INFO CommandLineParser] parsing argument
+[2023-10-19 00:32:05Z INFO CommandLineParser] HasArgs: True
+[2023-10-19 00:32:05Z INFO CommandLineParser] Adding option 'token': '***'
+[2023-10-19 00:32:05Z INFO Listener] Arguments parsed
+[2023-10-19 00:32:05Z INFO CommandSettings] Command 'configure': 'False'
+[2023-10-19 00:32:05Z INFO CommandSettings] Command 'remove': 'True'
+[2023-10-19 00:32:05Z ERR  Terminal] WRITE ERROR: Unrecognized command-line input arguments for command remove: 'url'. For usage refer to: .\config.cmd --help or ./config.sh --help
+[2023-10-19 00:32:05Z INFO Runner] ExecuteCommand
+[2023-10-19 00:32:05Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin\Runner.Listener.dll
+[2023-10-19 00:32:05Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:32:05Z INFO ConfigurationStore] binPath: C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin
+[2023-10-19 00:32:05Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:32:05Z INFO HostContext] Well known directory 'Root': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:32:05Z INFO ConfigurationStore] RootFolder: C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner
+[2023-10-19 00:32:05Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:32:05Z INFO HostContext] Well known directory 'Root': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:32:05Z INFO HostContext] Well known config file 'Runner': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.runner'
+[2023-10-19 00:32:05Z INFO ConfigurationStore] ConfigFilePath: C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.runner
+[2023-10-19 00:32:05Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:32:05Z INFO HostContext] Well known directory 'Root': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:32:05Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.credentials'
+[2023-10-19 00:32:05Z INFO ConfigurationStore] CredFilePath: C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.credentials
+[2023-10-19 00:32:05Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:32:05Z INFO HostContext] Well known directory 'Root': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:32:05Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.credentials_migrated'
+[2023-10-19 00:32:05Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.credentials_migrated
+[2023-10-19 00:32:05Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:32:05Z INFO HostContext] Well known directory 'Root': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:32:05Z INFO HostContext] Well known config file 'Service': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.service'
+[2023-10-19 00:32:05Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.service
+[2023-10-19 00:32:05Z INFO CommandSettings] Flag 'help': 'False'
+[2023-10-19 00:32:05Z INFO CommandSettings] Flag 'version': 'False'
+[2023-10-19 00:32:05Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-10-19 00:32:05Z INFO CommandSettings] Flag 'check': 'False'
+[2023-10-19 00:32:05Z INFO CommandSettings] Command 'configure': 'False'
+[2023-10-19 00:32:05Z INFO CommandSettings] Command 'remove': 'True'
+[2023-10-19 00:32:05Z INFO CommandSettings] Flag 'local': 'False'
+[2023-10-19 00:32:05Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-10-19 00:32:05Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-10-19 00:32:05Z INFO ConfigurationStore] IsConfigured()
+[2023-10-19 00:32:05Z INFO ConfigurationStore] IsConfigured: True
+[2023-10-19 00:32:05Z INFO ConfigurationStore] HasCredentials()
+[2023-10-19 00:32:05Z INFO ConfigurationStore] stored True
+[2023-10-19 00:32:05Z INFO ConfigurationStore] Read setting file: 324 chars
+[2023-10-19 00:32:05Z INFO CommandSettings] Arg 'token': '***'
+[2023-10-19 00:32:05Z INFO CommandSettings] Remove token from Arg dictionary.
+[2023-10-19 00:32:06Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration' (43CD:9FF5:61D465:C80F07:65307906)
+[2023-10-19 00:32:06Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2023-10-19 00:32:06Z INFO RunnerServer] EstablishVssConnection
+[2023-10-19 00:32:06Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-10-19 00:32:06Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-10-19 00:32:06Z INFO RunnerServer] EstablishVssConnection
+[2023-10-19 00:32:06Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-10-19 00:32:06Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-10-19 00:32:06Z INFO RunnerServer] EstablishVssConnection
+[2023-10-19 00:32:06Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-10-19 00:32:06Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-10-19 00:32:06Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-10-19 00:32:06Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-10-19 00:32:06Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-10-19 00:32:07Z INFO Terminal] WRITE LINE: 
+[2023-10-19 00:32:07Z INFO ConfigurationStore] IsConfigured()
+[2023-10-19 00:32:07Z INFO ConfigurationStore] IsConfigured: True
+[2023-10-19 00:32:07Z INFO ConfigurationStore] HasCredentials()
+[2023-10-19 00:32:07Z INFO ConfigurationStore] stored True
+[2023-10-19 00:32:07Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\bin'
+[2023-10-19 00:32:07Z INFO HostContext] Well known directory 'Root': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner'
+[2023-10-19 00:32:07Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.credentials_rsaparams'
+[2023-10-19 00:32:07Z INFO RSAEncryptedFileKeyManager] Deleting RSA key parameters file C:\Users\Usuario\OneDrive\Documentos\U\Electiva IV\sesion 17\ProyectoCypressBase\actions-runner\.credentials_rsaparams
+[2023-10-19 00:32:07Z INFO Terminal] WRITE LINE: 
+[2023-10-19 00:32:07Z INFO Listener] Runner execution has finished with return code 0

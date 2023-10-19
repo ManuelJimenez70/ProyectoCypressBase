@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 3,
+  "agentName": "cypress-runner",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus10.actions.githubusercontent.com/x5V3XbbNd0kgQDbNnYGsqF0ygeAUdvvAY9CGTCXhBX2YoQmE19/",
+  "gitHubUrl": "https://github.com/ManuelJimenez70/ProyectoCypressBase",
+  "workFolder": "_work"
+}
